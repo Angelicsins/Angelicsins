@@ -5,7 +5,7 @@
 
 </p>
     
-&nbsp; <p align="center"> [Fluffle](https://fluffle.cc/cursedstars) - [Spacehey](https://spacehey.com/shrimpyartist) - [Strawpage](https://retrostarz.straw.page)
+&nbsp; <p align="center"> [Fluffle](https://fluffle.cc/cursedstars) - [Strawpage](https://lucentangel.straw.page) - [Spacehey](https://spacehey.com/shrimpyartist)
 
 <p align="center"> $\textcolor{rgb(235, 226, 219)}{\textsf{Two}}$ &nbsp; $\textcolor{rgb(232, 214, 197)}{\textsf{birds}}$ &nbsp; $\textcolor{rgb(221, 195, 173)}{\textsf{on}}$ &nbsp; $\textcolor{rgb(197, 148, 130)}{\textsf{a}}$ &nbsp; $\textcolor{rgb(175, 104, 121)}{\textsf{wire}}$ 
   <p align="center">
